@@ -1,6 +1,6 @@
 # E2Exam Telegram Bot
 
-Welcome to the E2Exam Telegram Bot! This bot is designed to assist users in preparing for exams by providing daily quizzes, lessons, and notifications. It also allows users to track their progress and manage their virtual wallet.
+Welcome to the E2Exam Telegram Bot! This bot is designed to assist users in preparing for exams by providing daily quizzes, lessons, and notifications. It also allows users to track their progress and manage their virtual wallets.
 
 ## Features
 
@@ -23,7 +23,7 @@ To set up the E2Exam Telegram Bot, follow these steps:
 2. **Install required packages**:
    Make sure you have Python 3.x installed. Then, install the required packages using pip:
    ```bash
-   pip install pyTelegramBotAPI nest_asyncio
+   pip install pyTelegramBotAPI telebot
    ```
 
 3. **Set up your bot token**:
@@ -58,10 +58,7 @@ The bot includes logging functionality to help troubleshoot issues. Logs are pri
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
-For any questions or support, please contact segni.girma@astu.edu.et
+For any questions or support, don't hesitate to get in touch with segni.girma@astu.edu.et
